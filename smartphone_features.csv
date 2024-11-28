@@ -1,0 +1,21 @@
+﻿               Year,             Brand,               Model,                   Feature Name,              Category,Popularity Score,               Year,Customer Feedback
+2023,Apple,iPhone 15 Pro,Face ID,Security,95,100%,Positive
+2023,Samsung,Galaxy Z Fold 5,Foldable Screen,Display,90,70%,Positive
+2022,Google,Pixel 6,5G,Connectivity,80,85%,Neutral
+2022,OnePlus,10 Pro,Fast Charging,Battery,88,90%,Positive
+2021,Xiaomi,Mi 11 Ultra,Periscope Camera,Camera,82,60%,Neutral
+2021,Oppo,Find X3 Pro,120Hz Refresh Rate,Display,84,80%,Positive
+2020,Vivo,V20,In-display Fingerprint Scanner,Security,78,75%,Positive
+2020,Realme,Narzo 20 Pro,Dual-SIM Support,Connectivity,76,90%,Positive
+2023,Apple,iPhone SE (3rd Gen),A15 Bionic Chip,Processor,85,100%,Positive
+2023,Samsung,Galaxy S23 Ultra,200MP Camera,Camera,94,70%,Positive
+2022,Google,Pixel 7 Pro,Magic Eraser,Camera,89,85%,Positive
+2022,OnePlus,Nord 2T,MediaTek Dimensity,Processor,83,60%,Neutral
+2021,Xiaomi,Redmi Note 11,5000mAh Battery,Battery,90,95%,Positive
+2021,Oppo,Reno 6,AI Portrait Mode,Camera,88,80%,Positive
+2020,Vivo,X50 Pro,Gimbal Stabilization,Camera,86,75%,Positive
+2020,Realme,X3 SuperZoom,5x Optical Zoom,Camera,79,80%,Positive
+2019,Apple,iPhone 11,Night Mode,Camera,92,85%,Positive
+2019,Samsung,Galaxy Note 10+,S Pen Air Actions,Accessories,88,70%,Positive
+2018,Huawei,P20 Pro,Triple Camera,Camera,84,75%,Positive
+2018,LG,G7 ThinQ,Boombox Speaker,Audio,80,70%,Neutral
